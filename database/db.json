@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "price": 19.99,
+      "category": "beauty"
+    },
+    {
+      "title": "Eyeshadow Palette with Mirror",
+      "price": "50",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "category": "beauty",
+      "id": "2"
+    },
+    {
+      "title": "product7",
+      "price": "15",
+      "description": "aaaaaa",
+      "category": "beauty",
+      "id": "hTF_CPL9C1fO-RSoNZWgY"
+    },
+    {
+      "title": "iphone 16",
+      "price": "25",
+      "description": "aaaa",
+      "category": "phone",
+      "id": "POypTfqub9EWLK3ZNr9Ua"
+    }
+  ]
+}
